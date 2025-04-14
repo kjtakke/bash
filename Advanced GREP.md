@@ -1,0 +1,1 @@
+strings /home/pi/redfin/bin/redfin | grep "sst_" | sort | uniq -c

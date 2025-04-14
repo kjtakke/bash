@@ -1,0 +1,3 @@
+`ls -als`
+
+`sudo -i`

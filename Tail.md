@@ -1,0 +1,1 @@
+`tail -f json_data/logging_logs.json -n 7`
